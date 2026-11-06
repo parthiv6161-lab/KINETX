@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Kinetix logo mark">
+  <rect width="64" height="64" rx="14" fill="#0E0E0E"/>
+  <path d="M18 14h8v15.5L41.5 14H52L36.5 31.5 52 50H41L26 33.5V50h-8V14Z" fill="#C3F400"/>
+  <path d="M18 50h34" stroke="#C3F400" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+</svg>
